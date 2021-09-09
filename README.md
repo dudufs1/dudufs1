@@ -11,14 +11,18 @@
 </div>
 
 --- 
-
-<img style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />     <img style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    <img style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />    
-
---- 
 <div>
-	<a href="https://www.reddit.com/user/XBIO9" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg"/></a>  &nbsp; 
-	<a href="mailto: contato.dudu087@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-	
+	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
+	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
+	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;     
+	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;
+	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
+	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />    
+</div>
+<hr>
+<div>
+<a href="https://www.reddit.com/user/XBIO9" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg"/></a>  &nbsp; 
+<a href="mailto: contato.dudu087@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>
 
 
