@@ -1,4 +1,4 @@
-#  Bonjoour, sou Eduardo Fernando🚀
+#  Bonjoour, eu sou Eduardo Fernando :wave:
 
 - 💻 Full Stack developer
 - 🥰 apaixonado por tecnologia em geral **(mais apegado a programação)** ❤
