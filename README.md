@@ -1,4 +1,5 @@
-#  Bonjoour, eu sou Eduardo Fernando
+# Bonjoour, eu sou Eduardo Fernando 
+<img src="https://github.com/Efernandev/efernandev/blob/main/src/welcome.gif" height="50px"/>
 
 💬&nbsp;
 Jovem de 18 anos que sempre procura aprender mais. Sou apaixonado por tecnologia no geral porém mais 
