@@ -1,7 +1,7 @@
 #  Bonjoour, sou Eduardo Fernando🚀
 
-- Full Stack developer
-- apaixonado por tecnologia em geral **(mais apegado a programação)** ❤
+- 💻 Full Stack developer
+- 🥰 apaixonado por tecnologia em geral **(mais apegado a programação)** ❤
 --- 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=merko) 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&theme=blue-green) -->
