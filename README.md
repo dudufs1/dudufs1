@@ -5,6 +5,8 @@ Jovem de 18 anos que sempre procura aprender mais. Sou apaixonado por tecnologia
 apegado a programação.
 Desenvolvedor Fullstack, com base em HTML5, CSS3, Javascript, Mysql, Python e nodejs
 
+---
+
 <div>
 	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
 	<img align="center" style="width:30px;height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
