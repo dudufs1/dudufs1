@@ -27,6 +27,7 @@ Desenvolvedor Fullstack, com base em HTML5, CSS3, Javascript, Mysql, Python e no
 <a href="mailto: contato.dudu087@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>
 
+Também tenho alguns hobbies como assistir animes, leitura, speedcubing e artes marciais
 
 
 
