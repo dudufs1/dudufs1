@@ -1,9 +1,10 @@
-# Olá, me chamo Eduardo Fernando!&nbsp; <img src="https://github.com/Efernandev/efernandev/blob/main/src/bear.gif" height="50px"/>
+# Olá dev! Seja bem vindo ao meu perfil, !&nbsp; <img src="https://github.com/Efernandev/efernandev/blob/main/src/bear.gif" height="50px"/>
 <img src="https://github.com/Efernandev/efernandev/blob/main/src/welcome.gif" height="50px"/>
 💬&nbsp;
-Jovem de 18 anos que sempre procura aprender mais. Sou apaixonado por tecnologia no geral porém mais 
-apegado a programação.
-Desenvolvedor Fullstack, com base em HTML5, CSS3, Javascript, Mysql, Python e nodejs
+
+Jovem apaixonado por programação, sou um desenvolvedor front end e no momento tenho dominio sobre as seguintes stacks
+-> Python, Html5, Css3 e Javascript
+No momento também estou aprendendo alguns frameworks e outras stacks como React, typescript, nodejs, Styled-components e Bootstrap 
 
 ---
 
