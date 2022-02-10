@@ -3,6 +3,7 @@
 💬&nbsp;
 
 Jovem apaixonado por programação, sou um desenvolvedor front end e no momento tenho dominio sobre as seguintes stacks
+
 -> Python, Html5, Css3 e Javascript
 No momento também estou aprendendo alguns frameworks e outras stacks como React, typescript, nodejs, Styled-components e Bootstrap 
 
