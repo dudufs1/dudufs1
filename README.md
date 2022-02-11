@@ -13,6 +13,8 @@ No momento também estou aprendendo alguns frameworks e outras stacks como React
 
 
 --- 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+--- 
 
 ➡ Logo abaixo você pode entrar em contato comigo para algum freelancer ou simplesmente bater um papo
 
