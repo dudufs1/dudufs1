@@ -1,9 +1,7 @@
 # :wave: Fala Dev!&nbsp;
-🗨 &nbsp; Jovem apaixonado por programação, sou um desenvolvedor front end e no momento tenho dominio sobre as seguintes stacks
+🗨 &nbsp; Jovem apaixonado por programação, sou um desenvolvedor front end e no momento desenvolvo nas seguintes stacks
 
-⏩ Python, Html5, Css3 e Javascript
-
-No momento também estou aprendendo alguns frameworks e outras stacks como React, typescript, nodejs, Styled-components e Bootstrap 
+⏩ Python, Html5, Javascript, typescrit e Reactjs  
 
 ---
 ⏩Estatísticas:
