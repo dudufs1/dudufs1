@@ -1,12 +1,16 @@
 # :wave: Fala Dev!&nbsp;
-🗨 &nbsp; Jovem apaixonado por programação, sou um desenvolvedor front end e no momento desenvolvo nas seguintes stacks
+🗨 Young man passionate about programming,  
+🗨 I'm currently working in the front end developer area
 
-⏩ Python, Html5, Javascript, typescrit e Reactjs  
+## What I master:
+⏩ Python, Html5, Css3, Javascript
 
----
-⏩Estatísticas:
+# Learning:
+⏩ Reactjs, Typescript and nodejs
 
-<div align="center">
+⏩ Statistics:
+
+<div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -16,7 +20,7 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 --- 
 
-⏩ Logo abaixo você pode entrar em contato comigo para algum freelancer ou simplesmente bater um papo
+⏩ See below my social networks for contact and service
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dudufs1_)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dudufs1_/)
