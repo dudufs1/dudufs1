@@ -1,11 +1,12 @@
 # :wave: Hey Dev! How are you? ❤
 💬 I'm currently working in the front end developer area
 
-### What I master
-⚫ Python, Html5, Css3, Javascript
-
-### Learning
-⚫ React Native, Reactjs, Typescript and nodejs
+### Programming in 
+- [x] Python
+- [x] Nodejs
+- [x] Javascript & Typescript
+- [x] Reactjs
+- [x] React Native **_[Learning...]_**
 
 ### About me 
   🔸 18 year old passionate about technology and always willing to learn something new and work very well in a team
