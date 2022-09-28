@@ -5,7 +5,7 @@
 ⚫ Python, Html5, Css3, Javascript
 
 ### Learning
-⚫ Reactjs, Typescript and nodejs
+⚫ React Native, Reactjs, Typescript and nodejs
 
 ### About me 
   🔸 18 year old passionate about technology and always willing to learn something new and work very well in a team
