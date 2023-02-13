@@ -1,24 +1,23 @@
-# :wave: Hey Dev! How are you? ❤
-💬 I'm currently working in the front end developer area
+# :wave: Hey Dev! 
+💬 Venha conhecer um pouquinho sobre mim! 
+Jovem apaixonado por tecnologia no geral, redes, hacking, hardware e principalmente programação 
 
-### Programming in 
-- [x] Nodejs
-- [x] Javascript & Typescript
-- [x] Reactjs
-- [x] React Native **_[Learning...]_**
-- [x] Next.js **_[Learning...]_**
+💬 Focado em ReactJs c/ typescript. atualmente aprendendo _**next.js**_
 
-## Statistics:
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+ Dados:
+ 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+Minhas skills:
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 --- 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
---- 
+
 
 ⚫ Está pensando entrar em contato comigo? Me chame nas seguintes redes sociais para conversarmos ou codar juntos
 
