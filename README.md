@@ -7,12 +7,6 @@
 - [x] Reactjs
 - [x] React Native **_[Learning...]_**
 - [x] Next.js **_[Learning...]_**
-### About me 
-  🔸 18 year old passionate about technology and always willing to learn something new and work very well in a team
-
-  🔸 Computer Technician 
-
-  🔸 In which I learned about computer fundamentals, networks, programming, maintenance and information security
 
 ## Statistics:
 
@@ -26,7 +20,7 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 --- 
 
-⚫ See below my social networks for contact and service
+⚫ Está pensando entrar em contato comigo? Me chame nas seguintes redes sociais para conversarmos ou codar juntos
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dudufs1_)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dudufs1_/)
