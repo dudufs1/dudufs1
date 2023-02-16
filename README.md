@@ -1,16 +1,16 @@
 # :wave: Hey Dev! 
-💬 Venha conhecer um pouquinho sobre mim! 
+➤ 👤 Venha conhecer um pouquinho sobre mim! 
 Jovem apaixonado por tecnologia no geral, redes, hacking, hardware e principalmente programação 
 
-💬 Focado em ReactJs c/ typescript. atualmente aprendendo _**next.js**_
+➤ 🚀 Junior web developer | Front end | To Full Stack
 
+➤ 💬 Focado em ReactJs c/ typescript. atualmente aprendendo _**next.js**_
 
-
- Dados:
+ ## ➦ Dados:
  
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-Minhas skills:
+➦ Minhas skills:
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&layout=compact&langs_count=7&theme=tokyonight"/>
 
