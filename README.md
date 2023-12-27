@@ -2,7 +2,7 @@
 ➤ 👤 Venha conhecer um pouquinho sobre mim! 
 Jovem apaixonado por tecnologia no geral, redes, hacking, hardware e principalmente programação 
 
-➤ 🚀 Junior web developer | Front end | To Full Stack
+➤ 🚀 Junior web developer | Front end 
 
 ➤ 💬 Focado em ReactJs c/ typescript. atualmente aprendendo _**next.js**_
 
