@@ -3,12 +3,9 @@
 
 ➤ 🚀 Front end developer
 
- ## ➦ Dados:
+ ## ➦ Dados e skills:
  
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-➦ Minhas skills:
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
@@ -16,7 +13,7 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-⚫ Está pensando entrar em contato comigo? Me chame nas seguintes redes sociais para conversarmos ou codar juntos
+⚫ Me encontre por aqui
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dudufs1_)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dudufs1_/)
