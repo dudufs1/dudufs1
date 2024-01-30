@@ -1,5 +1,6 @@
 # :wave: Iae dev! 
 ➤ Olá me chamo Eduardo Fernando, tenho 20 anos e sou Desenvolvedor front end Junior, com uma enorme vontade sempre de aprender e no momento estou estudando para se tornar um programador fullstack
+
 ➤ 🚀 Front end developer
 
  ## ➦ Dados:
