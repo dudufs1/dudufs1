@@ -7,6 +7,17 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,next,typescript,electron&perline=5)](https://skillicons.dev)
  ## ➦ Dados:
 
+## 📂 **Minhas Ferramentas e Tecnologias**
+- **Linguagens de Programação:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
+- **Ferramentas:**  
+  ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?logo=qt&logoColor=white)  
+  ![Tinkercad](https://img.shields.io/badge/-Tinkercad-0079C1?logo=autodesk&logoColor=white)  
+- **Gerenciamento:**  
+  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  
+- **Outros:**  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
 <div>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=efernandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>       &nbsp; 
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandev&layout=compact&langs_count=7&theme=tokyonight"/>
