@@ -4,7 +4,7 @@
 
 ## 📊 **Meu Status Atual**
 - 🛠️ **Projetos**:  
-  - Praticando modelagem 3D no **AutoCad** e **Revit**.  
+  - Praticando modelagem 3D no **AutoCad** e **SolidWorks**.  
 
 - 💻 **Interesses**:  
   - Robótica (Vice-capitão de uma equipe e focado na programação).  
