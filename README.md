@@ -35,7 +35,7 @@
 - **LinkedIn:** [Eduardo Fernando](https://www.linkedin.com/in/eduardo-fernando-590077227/)  
 - **Email:** contato.dudu087@gmail.com  
 - **GitHub:** [github.com/dudufs1](https://github.com/dudufs1)
-- **Instagram*8 [Dudufs1](https://www.instagram.com/dudufs1/)
+- **Instagram** [Dudufs1](https://www.instagram.com/dudufs1/)
 ---
 
 > "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original." - Albert Einstein  
